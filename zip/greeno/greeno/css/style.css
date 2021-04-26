@@ -450,6 +450,8 @@ a.readmore_bt {
 .logo {
      float: left;
      position: relative;
+     width: 5cm;
+     height: 5cm;
 }
 
 nav.main-menu {
